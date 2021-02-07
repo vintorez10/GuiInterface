@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/Storm_icon.png</file>
+        <file>img/Weather_clouds_icon.png</file>
+        <file>img/WindFlagStorm.png</file>
+    </qresource>
+</RCC>
